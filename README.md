@@ -1,13 +1,23 @@
 # Hi there 👋 I'm Radosław!
 
-I'm a passionate developer focused on building clean, efficient, and user-friendly applications.  
+I'm a passionate developer focused on building clean, efficient, and user-friendly applications.
+Currently exploring both front-end and back-end development, with a strong interest in automation and scalable systems.
 
 ---
 
-## 🚀 Tech Stack
+**Languages:**  
+💻 JavaScript, HTML, CSS, PHP  
+🧠 C#, XAML
 
-- 💻 Languages: JavaScript, HTML, CSS, PHP, C#, XAML
-- ⚙️ Tools: Git, GitHub Actions
+**Tools & Platforms:**  
+🔧 Git, GitHub Actions, Visual Studio, VS Code  
+☁️ Working knowledge of CI/CD and basic DevOps concepts
+
+---
+
+### 🛠 Featured Projects
+
+- Will add later
 
 ---
 
