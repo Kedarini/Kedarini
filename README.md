@@ -17,7 +17,7 @@ Currently exploring both front-end and back-end development, with a strong inter
 
 ### 🛠 Featured Projects
 
-- Will add later
+- ToDo program
 
 ---
 
