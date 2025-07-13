@@ -16,7 +16,9 @@ Currently exploring both front-end and back-end development, with a strong inter
 
 ---
 
-### 🛠 Featured Projects
+### Projects
+
+- [To-Do](https://github](https://github.com/Kedarini/To-Do)
 
 ---
 
