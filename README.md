@@ -6,7 +6,7 @@ Currently exploring both front-end and back-end development, with a strong inter
 ---
 
 **Languages:**  
-💻 JavaScript, HTML, CSS, PHP  
+💻 Python, JavaScript, HTML, CSS, PHP
 🧠 C#, XAML
 
 **Tools & Platforms:**  
@@ -22,7 +22,7 @@ Currently exploring both front-end and back-end development, with a strong inter
 ---
 
 ## 📫 Let's Connect
-- 📧 Email: kedardamps@gmail.com
+- 📧 Email: [kedardamps@gmail.com](mailto:kedardamps@gmail.com)
   
 ---
 
