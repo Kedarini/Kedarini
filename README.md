@@ -7,6 +7,7 @@ Currently exploring both front-end and back-end development, with a strong inter
 
 **Languages:**  
 💻 Python, JavaScript, HTML, CSS, PHP
+
 🧠 C#, XAML
 
 **Tools & Platforms:**  
