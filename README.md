@@ -18,7 +18,7 @@ Currently exploring both front-end and back-end development, with a strong inter
 
 ### Projects
 
-- [To-Do](https://github.com/Kedarini/To-Do) HTML, JS, CSS, Python
+- [To-Do](https://github.com/Kedarini/To-Do)
 
 ---
 
