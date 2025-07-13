@@ -17,8 +17,6 @@ Currently exploring both front-end and back-end development, with a strong inter
 
 ### 🛠 Featured Projects
 
-- ToDo program
-
 ---
 
 ## 📫 Let's Connect
@@ -26,4 +24,4 @@ Currently exploring both front-end and back-end development, with a strong inter
   
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kedarini&show_icons=true&theme=apprentice)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kedarini&show_icons=true&theme=dark)
