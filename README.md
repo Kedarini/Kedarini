@@ -18,7 +18,8 @@ Currently exploring both front-end and back-end development, with a strong inter
 
 ### Projects
 
-- [To-Do](https://github.com/Kedarini/To-Do)           in progress
+- [To-Do](https://github.com/Kedarini/To-Do) in progress
+- [SnakeGame](https://github.com/Kedarini/SnakeGame) in progress
 
 ---
 
