@@ -19,7 +19,7 @@ Currently exploring both front-end and back-end development, with a strong inter
 ### Projects
 
 - [To-Do](https://github.com/Kedarini/To-Do) in progress
-- [Snake](https://github.com/Kedarini/Snake) Done
+- [Snake](https://github.com/Kedarini/Snake) Done - First pygame-ce project
 
 ---
 
