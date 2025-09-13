@@ -6,12 +6,12 @@ Currently exploring both front-end and back-end development, with a strong inter
 ---
 
 **Languages:**  
-- JavaScript, HTML, CSS, PHP
-- Python, Flask, PyGame
+- JavaScript, HTML, CSS, PHP, TypeScript
+- Python, Flask, PyGame, DiscordPy
 - C#, XAML
 
 **Tools & Platforms:**  
-- Git, GitHub Actions, Visual Studio, VS Code  
+- Git, GitHub Actions, Visual Studio, VS Code, PyCharm
 - Working knowledge of CI/CD and basic DevOps concepts
 
 ---
@@ -21,6 +21,7 @@ Currently exploring both front-end and back-end development, with a strong inter
 - [To-Do](https://github.com/Kedarini/To-Do) in progress
 - [Snake](https://github.com/Kedarini/Snake) Done - First pygame-ce project
 - [Tower Defense](https://github.com/Kedarini/Tower-Defense) in progress
+- [DiscordBot](https://github.com/Kedarini/DiscordBot) in progress
 
 ---
 
