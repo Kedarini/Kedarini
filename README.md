@@ -22,6 +22,7 @@ Currently exploring both front-end and back-end development, with a strong inter
 - [Snake](https://github.com/Kedarini/Snake) Done - First pygame-ce project
 - [Tower Defense](https://github.com/Kedarini/Tower-Defense) in progress
 - [DiscordBot](https://github.com/Kedarini/DiscordBot) in progress
+- [TempCleanup](https://github.com/Kedarini/TempCleanup) Done
 
 ---
 
