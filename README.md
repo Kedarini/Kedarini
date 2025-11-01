@@ -10,6 +10,8 @@ Currently exploring both front-end and back-end development, with a strong inter
 - Python, Flask, PyGame, DiscordPy
 - C#, XAML
 
+- Since 2025 I'm learning PyTorch
+
 **Tools & Platforms:**  
 - Git, GitHub Actions, Visual Studio, VS Code, PyCharm
 - Working knowledge of CI/CD and basic DevOps concepts
@@ -18,10 +20,10 @@ Currently exploring both front-end and back-end development, with a strong inter
 
 ### Projects
 
-- [To-Do](https://github.com/Kedarini/To-Do) in progress
+- [To-Do](https://github.com/Kedarini/To-Do) discontinued
 - [Snake](https://github.com/Kedarini/Snake) Done - First pygame-ce project
-- [Tower Defense](https://github.com/Kedarini/Tower-Defense) in progress
-- [DiscordBot](https://github.com/Kedarini/DiscordBot) in progress
+- [Tower Defense](https://github.com/Kedarini/Tower-Defense) discontinued
+- [DiscordBot](https://github.com/Kedarini/DiscordBot) Done
 - [TempCleanup](https://github.com/Kedarini/TempCleanup) Done
 
 ---
