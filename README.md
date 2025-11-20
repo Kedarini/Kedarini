@@ -26,6 +26,7 @@ Currently exploring both front-end and back-end development, with a strong inter
 - [DiscordBot](https://github.com/Kedarini/DiscordBot) Done
 - [TempCleanup](https://github.com/Kedarini/TempCleanup) Done
 - [PasswordGenerator](https://github.com/Kedarini/PasswordGenerator) Done
+- [CurrencyExchange](https://github.com/Kedarini/ExchangeCurrency) Done
 
 ---
 
