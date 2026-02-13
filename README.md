@@ -20,14 +20,13 @@ Currently exploring both front-end and back-end development, with a strong inter
 
 ### Projects
 
-- [To-Do](https://github.com/Kedarini/To-Do) discontinued
 - [Snake](https://github.com/Kedarini/Snake) Done
-- [Tower Defense](https://github.com/Kedarini/Tower-Defense) discontinued
 - [DiscordBot](https://github.com/Kedarini/DiscordBot) Done
 - [TempCleanup](https://github.com/Kedarini/TempCleanup) Done
 - [PasswordGenerator](https://github.com/Kedarini/PasswordGenerator) Done
 - [CurrencyExchange](https://github.com/Kedarini/ExchangeCurrency) Done
 - [JobScraper](https://github.com/Kedarini/PythonJobScraper) Done
+- [ScientificCalculator](https://github.com/Kedarini/Calculator) Done
 
 ---
 
