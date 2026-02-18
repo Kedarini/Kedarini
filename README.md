@@ -27,6 +27,7 @@ Currently exploring both front-end and back-end development, with a strong inter
 - [CurrencyExchange](https://github.com/Kedarini/ExchangeCurrency) Done
 - [JobScraper](https://github.com/Kedarini/PythonJobScraper) Done
 - [ScientificCalculator](https://github.com/Kedarini/Calculator) Done
+- [ToDoList](https://github.com/Kedarini/ToDo) in Progress
 
 ---
 
@@ -34,5 +35,3 @@ Currently exploring both front-end and back-end development, with a strong inter
 - Email: [kedardamps@gmail.com](mailto:kedardamps@gmail.com)
   
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kedarini&show_icons=true&theme=dark)
