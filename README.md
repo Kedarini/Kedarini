@@ -7,7 +7,7 @@ Currently exploring both front-end and back-end development, with a strong inter
 
 **Languages:**  
 - JavaScript, HTML, CSS, PHP, TypeScript
-- Python, Flask, PyGame, DiscordPy
+- Python, Flask
 - C#, XAML
 
 - Since 2025 I'm learning PyTorch
