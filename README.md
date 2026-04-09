@@ -31,6 +31,6 @@ Currently exploring both front-end and back-end development, with a strong inter
 ---
 
 ## Let's Connect
-- Email: [kedardamps@gmail.com](mailto:kedardamps@gmail.com)
+- Email: [radekdamps@gmail.com](mailto:radekdamps@gmail.com)
   
 ---
