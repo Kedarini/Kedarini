@@ -1,4 +1,5 @@
 # Hi there I'm Radosław!
+Enrolling to DevOps / Cloud Engineer
 
 I'm a passionate developer focused on building clean, efficient, and user-friendly applications.
 Currently exploring both front-end and back-end development, with a strong interest in automation and scalable systems.
