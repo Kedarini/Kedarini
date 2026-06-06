@@ -1,41 +1,28 @@
-# Hi there I'm Radosław!
-Enrolling to DevOps / Cloud Engineer
+# Hi there, I'm Radosław!
+**Aspiring DevOps & Cloud Engineer**
 
-I'm a passionate developer focused on building clean, efficient, and user-friendly applications.
-Currently exploring both front-end and back-end development, with a strong interest in automation and scalable systems.
-
----
-
-**Languages:**  
-- JavaScript, HTML, CSS, PHP, TypeScript
-- Python, Flask
-- C#, XAML
-
-- Since 2025 I'm learning PyTorch
-
-**Tools & Platforms:**  
-- Git, GitHub Actions, Visual Studio, VS Code, PyCharm
-- Working knowledge of CI/CD and basic DevOps concepts
+I am a passionate tech enthusiast focused on automation, infrastructure reliability, and optimizing deployment workflows. With a solid foundation in software development (Python, Bash, C#), I bridge the gap between code and infrastructure to build scalable systems.
 
 ---
 
-### Projects
+**Languages:** Python | Bash | C# | JavaScript & TypeScript  
+**Tools & Platforms**: Git, GitHub Actions, Linux (Arch Linux/CLI), CI/CD concepts
+**Currently Learning:** Docker | AWS | Infrastructure as Code (Terraform)
 
-## Python
-- [Snake](https://github.com/Kedarini/Snake) Done
-- [TempCleanup](https://github.com/Kedarini/TempCleanup) Done
-- [PasswordGenerator](https://github.com/Kedarini/PasswordGenerator) Done
-- [CurrencyExchange](https://github.com/Kedarini/ExchangeCurrency) Done
-- [JobScraper](https://github.com/Kedarini/PythonJobScraper) Done
-- [ScientificCalculator](https://github.com/Kedarini/Calculator) Done
-- [ToDoList](https://github.com/Kedarini/ToDo) in Progress
+---
 
+## Featured Projects
 
-## Bash
-- [Organizer](https://github.com/Kedarini/Bash-Organizer)
+### Automation & Scripting
+*   [Bash-Organizer](https://github.com/Kedarini/Bash-Organizer) – Automating file organization and workspace cleanup using Bash.
+*   [TempCleanup](https://github.com/Kedarini/TempCleanup) – Python-based automation tool for system maintenance.
+*   [JobScraper](https://github.com/Kedarini/PythonJobScraper) – Automated web scraper for data collection and analysis.
+
+### Software Development
+*   [CurrencyExchange](https://github.com/Kedarini/ExchangeCurrency) & [PasswordGenerator](https://github.com/Kedarini/PasswordGenerator) – Practical applications demonstrating clean code principles in Python.
+
 ---
 
 ## Let's Connect
-- Email: [radekdamps@gmail.com](mailto:radekdamps@gmail.com)
-  
----
+*   **Email:** radekdamps@gmail.com
+*   **LinkedIn:** [Twoj-Profil-Linkedin]
