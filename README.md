@@ -21,6 +21,7 @@ Currently exploring both front-end and back-end development, with a strong inter
 
 ### Projects
 
+## Python
 - [Snake](https://github.com/Kedarini/Snake) Done
 - [TempCleanup](https://github.com/Kedarini/TempCleanup) Done
 - [PasswordGenerator](https://github.com/Kedarini/PasswordGenerator) Done
@@ -29,6 +30,9 @@ Currently exploring both front-end and back-end development, with a strong inter
 - [ScientificCalculator](https://github.com/Kedarini/Calculator) Done
 - [ToDoList](https://github.com/Kedarini/ToDo) in Progress
 
+
+## Bash
+- [Organizer](https://github.com/Kedarini/Bash-Organizer)
 ---
 
 ## Let's Connect
