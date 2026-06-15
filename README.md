@@ -7,8 +7,8 @@ I am a passionate tech enthusiast focused on automation, infrastructure reliabil
 
 **Languages:** Python | Bash          
 **Second Languages:** C# | JavaScript & TypeScript    
-**Tools & Platforms**: Git, Linux (Arch Linux/CLI), Networking concepts    
-**Currently Learning:** Docker | AWS | Terraform | GitHub Actions | CI/CD concepts    
+**Tools & Platforms**: Git, Linux (Arch Linux/CLI), Networking concepts, CI/CD concepts       
+**Currently Learning:** Docker | AWS | Terraform | GitHub Actions     
 
 ---
 
