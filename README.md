@@ -17,7 +17,7 @@ I am a passionate tech enthusiast focused on automation, infrastructure reliabil
 ### Automation & Scripting
 *   [Bash Organizer](https://github.com/Kedarini/Bash-Organizer) - Automating file organization and workspace cleanup using Bash.
 *   [Bash Backup](https://github.com/Kedarini/Bash-Backup) - Automating creation of backup of current working directory
-*   [Bash System Monitor](https://github.com/Kedarini/Bash-System-Monitor) - Script checking system usgae status.
+*   [Bash System Monitor](https://github.com/Kedarini/Bash-System-Monitor) - Script checking system usage status.
 *   [Temp Cleanup](https://github.com/Kedarini/TempCleanup) - Python-based automation tool for system maintenance.
 *   [Job Scraper](https://github.com/Kedarini/PythonJobScraper) - Automated web scraper for data collection and analysis.
 
